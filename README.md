@@ -14,8 +14,6 @@ pip install -r requirements.txt
 ```
 3. Go to ``` main/views.py ``` &
 replace ```yourkeyhere``` in ```'x-rapidapi-key': "yourkeyhere"``` with the key you get from: [https://rapidapi.com/api-sports/api/covid-193](https://rapidapi.com/api-sports/api/covid-193)
-4. Go to ```main/views.py``` &
-replace ```yourcountryhere``` in ```querystring = {"country": "yourcountryhere"}``` with the country you'd like to show the data of.
 5. Done! now run the project with ```python manage.py runserver``` 
 
 ## Deployment
