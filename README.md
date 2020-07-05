@@ -27,7 +27,7 @@ follow instructions given on [This link](https://devcenter.heroku.com/categories
 
 ## Authors
 
-* **Maitreya Patni** - *Everything* - [Github](https://github.com/Maitreya29) [Website](https://maitreyap.xyz)
+* **Maitreya Patni** - *Everything* - [Github](https://github.com/Maitreya29) | [Website](https://maitreyap.xyz)
 
 ## License
 
